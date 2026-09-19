@@ -1,0 +1,8 @@
+Machine Learning Overview
+
+    Machine learning is a subset of artificial intelligence that focuses on building systems that can learn from and make decisions based on data.
+    It involves training algorithms on large datasets to recognize patterns and make predictions or decisions without being explicitly programmed to perform specific tasks.
+    Types of Machine Learning:
+    - Supervised Learning: The model is trained on labeled data, where the input-output pairs are known.
+    - Unsupervised Learning: The model is trained on unlabeled data and must find patterns  and relationships on its own.
+    - Reinforcement Learning: The model learns by interacting with an environment and receiving feedback in the form of rewards or penalties.
